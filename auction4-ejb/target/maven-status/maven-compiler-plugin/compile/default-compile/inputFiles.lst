@@ -1,0 +1,16 @@
+/Users/yvonneak/NetBeansProjects/auction4/auction4-ejb/src/main/java/com/auction4/sessionBeans/ItemsFacade.java
+/Users/yvonneak/NetBeansProjects/auction4/auction4-ejb/src/main/java/com/auction4/sessionBeans/AbstractFacade.java
+/Users/yvonneak/NetBeansProjects/auction4/auction4-ejb/src/main/java/com/auction4/entities/FeedBacks.java
+/Users/yvonneak/NetBeansProjects/auction4/auction4-ejb/src/main/java/com/auction4/sessionBeans/BidsFacade.java
+/Users/yvonneak/NetBeansProjects/auction4/auction4-ejb/src/main/java/com/auction4/sessionBeans/SoldItemsFacade.java
+/Users/yvonneak/NetBeansProjects/auction4/auction4-ejb/src/main/java/com/auction4/entities/TypeOfUsers.java
+/Users/yvonneak/NetBeansProjects/auction4/auction4-ejb/src/main/java/com/auction4/entities/Items.java
+/Users/yvonneak/NetBeansProjects/auction4/auction4-ejb/src/main/java/com/auction4/entities/SoldItems.java
+/Users/yvonneak/NetBeansProjects/auction4/auction4-ejb/src/main/java/com/auction4/sessionBeans/UsersFacade.java
+/Users/yvonneak/NetBeansProjects/auction4/auction4-ejb/src/main/java/com/auction4/entities/BuyerItemRatingsAndReviews.java
+/Users/yvonneak/NetBeansProjects/auction4/auction4-ejb/src/main/java/com/auction4/sessionBeans/BuyerItemRatingsAndReviewsFacade.java
+/Users/yvonneak/NetBeansProjects/auction4/auction4-ejb/src/main/java/com/auction4/entities/Users.java
+/Users/yvonneak/NetBeansProjects/auction4/auction4-ejb/src/main/java/com/auction4/entities/Bids.java
+/Users/yvonneak/NetBeansProjects/auction4/auction4-ejb/src/main/java/com/auction4/sessionBeans/TypeOfUsersFacade.java
+/Users/yvonneak/NetBeansProjects/auction4/auction4-ejb/src/main/java/com/auction4/entities/NewSessionBean.java
+/Users/yvonneak/NetBeansProjects/auction4/auction4-ejb/src/main/java/com/auction4/sessionBeans/FeedBacksFacade.java

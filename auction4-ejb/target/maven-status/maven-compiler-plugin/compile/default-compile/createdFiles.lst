@@ -1,0 +1,14 @@
+com/auction4/entities/TypeOfUsers_.class
+com/auction4/sessionBeans/UsersFacade.class
+com/auction4/sessionBeans/AbstractFacade.class
+com/auction4/sessionBeans/ItemsFacade.class
+com/auction4/entities/SoldItems_.class
+com/auction4/sessionBeans/SoldItemsFacade.class
+com/auction4/sessionBeans/BidsFacade.class
+com/auction4/entities/Bids_.class
+com/auction4/entities/FeedBacks_.class
+com/auction4/sessionBeans/FeedBacksFacade.class
+com/auction4/entities/BuyerItemRatingsAndReviews_.class
+com/auction4/entities/Bids.class
+com/auction4/sessionBeans/TypeOfUsersFacade.class
+com/auction4/sessionBeans/BuyerItemRatingsAndReviewsFacade.class

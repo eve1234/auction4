@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:f="http://xmlns.jcp.org/jsf/core">
+    <h:head>
+        <title>Auction site</title>
+    </h:head>
+    <h:body>
+            <form>
+                <h1>items for auction</h1>
+                <h:dataTable var="i" value="#{itemsController.findAll()}" border="1" cellpadding="2" cellspacing="4">
+                    <h:column>
+                        <f:facet name="header">Id</f:facet>
+                        <h:outputText value="#{i.itemid}"></h:outputText>
+                    </h:column>
+                    <h:column>
+                        <f:facet name="header">Brand Name</f:facet>
+                        <h:outputText value="#{i.brandName}"></h:outputText>
+                    </h:column>
+                    <h:column>
+                        <f:facet name="header">Item Name</f:facet>
+                        <h:outputText value="#{i.itemName}"></h:outputText>
+                    </h:column>
+                    <h:column>
+                        <f:facet name="header"> colour</f:facet>
+                        <h:outputText value="#{i.colour}"></h:outputText>
+                    </h:column>
+                    <h:column>
+                        <f:facet name="header"> size</f:facet>
+                        <h:outputText value="#{i.size}"></h:outputText>
+                    </h:column>
+                    
+                    <h:column>
+                        <f:facet name="header">price</f:facet>
+                        <h:outputText value="#{i.descriptions}"></h:outputText>
+                    </h:column>
+                    <h:column>
+                        <f:facet name="header">Photo</f:facet>
+                        <h:outputText value="#{i.image}"></h:outputText>
+                    </h:column>
+                   
+                </h:dataTable> 
+            </form>
+    </h:body>
+</html>
+
